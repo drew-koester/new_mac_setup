@@ -1,7 +1,6 @@
 # new_mac_setup
 
-Simple list of instructions to make setting up your computer as fast and efficient as possible. Big thanks to [Tania Rascia's blog](https://www.taniarascia.com/setting-up-a-brand-new-mac-for-development) for the original idea, as well as [Nathan Schile](https://github.cerner.com/NS012691/mac-setup) and [Drew Koester](https://github.cerner.com/dk8704/setup_mac) for trimming it down to just the useful pieces that our org cares about
-
+Simple list of instructions to make setting up your computer as fast and efficient as possible. 
 
 ## Glossary
 * [Brewfile](Brewfile) will contain the list of applications that will be installed on the machine
